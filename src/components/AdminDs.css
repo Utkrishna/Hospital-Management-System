@@ -1,0 +1,49 @@
+div{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    padding: 20px;
+    margin: 10px;
+}
+.app1{
+    margin: -20px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    gap: -600px;
+}
+h2{
+    font-size: 35px;
+    font-weight: 600;
+}
+.a2{
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+}
+.btn{
+    height: 40px;
+    width: 60px;
+    border-radius: 8px;
+    border: transparent;
+    background-color: blue;
+    color: white;
+}
+.btn2{
+    height: 40px;
+    width: 90px;
+    border-radius: 8px;
+    border: transparent;
+    background-color:blue;
+    color: white;
+}
+.btn3{
+    height: 40px;
+    width: 60px;
+    border-radius: 8px;
+    border: transparent;
+    background-color: blue;
+    color: white;
+}

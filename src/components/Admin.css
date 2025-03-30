@@ -1,0 +1,38 @@
+.i{
+    display: flex;
+    height: 20px;
+    width: 200px;
+    border:0.5px solid black;
+    border-radius: 5px;
+    color: black;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+}
+.b{
+    background-color: #4848f2;
+    color: white;
+    border: transparent;
+    height: 25px;
+    width: 50px;
+    border-radius: 9px;
+}
+.b:hover{
+    background-color:blue ;
+    color: #ea48f2;
+}
+.f{
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+    justify-content: center;
+    align-items: center;
+}
+.das{
+    display: flex;
+    flex-direction: column;
+}
+.a{
+    gap: 15px;
+    color:black;
+}
